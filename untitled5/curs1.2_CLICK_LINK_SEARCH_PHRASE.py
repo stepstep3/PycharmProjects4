@@ -8,7 +8,7 @@ language_locators=["js-link-box-en","js-link-box-ru","js-link-box-de"]
 search_locator="searchInput"
 search_text="Software"
 
-driver=webdriver.Chrome()#executable_path=exec_path)
+driver=webdriver.Chrome()
 driver.get(URL)
 driver.maximize_window()
 for i in range(len(language_locators)):

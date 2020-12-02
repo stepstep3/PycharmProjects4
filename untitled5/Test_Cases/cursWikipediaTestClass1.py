@@ -1,11 +1,11 @@
 import unittest
 from selenium import webdriver
-from Pages.curs121MainPage import MainPage
-from Pages.curs121EnglishPage import EnglishPage
-import Cursutilities as U
+from untitled5.Pages.MainPage import MainPage
+from untitled5.Pages.EnglishPage import EnglishPage
+
 
 class WikipediaTestClass1(unittest.TestCase):
-  exec_path=r"C:\Users\NASA7\Downloads\chromedriver_win32 (4)\chromedriver.exe"
+  exec_path=r"C:\Users\NASA7\Downloads\chromedriver_win32 (3)\chromedriver.exe"
   base_URL="https://www.wikipedia.org"
 
 

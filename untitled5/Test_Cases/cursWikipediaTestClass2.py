@@ -1,8 +1,8 @@
 import unittest
 from selenium import webdriver
-from Pages.curs121MainPage import MainPage
-from Pages.curs121EnglishPage import EnglishPage
-import Cursutilities as U
+from untitled5.Pages.curs121MainPage import MainPage
+from untitled5.Pages.curs121EnglishPage import EnglishPage
+import untitled5.Cursutilities as U
 
 class WikipediaTestClass2(unittest.TestCase):
   run_all_test_cases=True

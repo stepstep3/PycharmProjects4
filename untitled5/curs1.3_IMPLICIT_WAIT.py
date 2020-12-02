@@ -1,14 +1,14 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
-#exec_path=r"\untitled5\venv\Scripts\"
+exec_path=r"untitled5\venv\Scripts\chromedriver.exe"
 URL=r"https://www.wikipedia.org"
 #english_link_locator="js-link-box-en"
 language_locators=["js-link-box-en","js-link-box-ru","js-link-box-de"]
 search_locator="searchInput"
 search_text="Software"
 #commit4
-driver=webdriver.Chrome()
+driver=webdriver.Chrome(executable_path=exec_path)
 driver.get(URL)
 driver.implicitly_wait(5)
 driver.maximize_window()

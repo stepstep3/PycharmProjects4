@@ -1,7 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
-exec_path=r"C:\Users\NASA7\Downloads\chromedriver_win32 (4)\chromedriver.exe"
+exec_path=r"chromedriver1.exe"
 URL=r"https://www.wikipedia.org"
 #english_link_locator="js-link-box-en"
 language_locators=["js-link-box-en","js-link-box-ru","js-link-box-de"]

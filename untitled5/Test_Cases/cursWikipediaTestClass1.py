@@ -1,7 +1,7 @@
 import unittest
 from selenium import webdriver
-from Pages.MainPage import MainPage
-from Pages.EnglishPage import EnglishPage
+from untitled5.Pages.MainPage import MainPage
+from untitled5.Pages.EnglishPage import EnglishPage
 
 
 class WikipediaTestClass1(unittest.TestCase):

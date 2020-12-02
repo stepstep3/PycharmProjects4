@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4bb50ca1-a865-4e70-8518-8ec4e4856fe0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h8xTHhBLzyluley61kGWphH5W5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled1" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\NASA7\PycharmProjects\untitled5" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.curs1.1 CLICK LINK,SEARCH PHRASE ">
+    <configuration name="curs1.1 CLICK LINK,SEARCH PHRASE " type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curs1.1 CLICK LINK,SEARCH PHRASE .py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for cursWikipediaTestClass2.WikipediaTestClass2" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="untitled5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test_Cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;cursWikipediaTestClass2.WikipediaTestClass2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for cursWikipediaTestClass2.WikipediaTestClass2.test_main_page" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="untitled5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test_Cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;cursWikipediaTestClass2.WikipediaTestClass2.test_main_page&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for cursWikipediaTestClass3.WikipediaTestClass1" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="untitled5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test_Cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;cursWikipediaTestClass3.WikipediaTestClass1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in cursWikipediaTestClass2.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="untitled5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test_Cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Test_Cases/cursWikipediaTestClass2.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.curs1.1 CLICK LINK,SEARCH PHRASE " />
+        <item itemvalue="Python tests.Unittests in cursWikipediaTestClass2.py" />
+        <item itemvalue="Python tests.Unittests for cursWikipediaTestClass2.WikipediaTestClass2" />
+        <item itemvalue="Python tests.Unittests for cursWikipediaTestClass2.WikipediaTestClass2.test_main_page" />
+        <item itemvalue="Python tests.Unittests for cursWikipediaTestClass3.WikipediaTestClass1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bb50ca1-a865-4e70-8518-8ec4e4856fe0" name="Default Changelist" comment="" />
+      <created>1599406527030</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599406527030</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="494" y="100" width="1303" height="706" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1599934705784">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="494" y="100" width="1303" height="706" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599934705784" />
+    <state x="0" y="344" key="#curs1" timestamp="1599853014154">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="344" key="#curs1/0.0.1920.1040@0.0.1920.1040" timestamp="1599853014154" />
+    <state x="738" y="353" key="FileChooserDialogImpl" timestamp="1599563976778">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="738" y="353" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599563976778" />
+    <state width="1898" height="429" key="GridCell.Tab.0.bottom" timestamp="1606718222424">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1898" height="429" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606718222424" />
+    <state width="1898" height="429" key="GridCell.Tab.0.center" timestamp="1606718222422">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1898" height="429" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606718222422" />
+    <state width="1898" height="429" key="GridCell.Tab.0.left" timestamp="1606718222422">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1898" height="429" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606718222422" />
+    <state width="1898" height="429" key="GridCell.Tab.0.right" timestamp="1606718222422">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1898" height="429" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606718222422" />
+    <state x="527" y="119" key="SettingsEditor" timestamp="1600379464823">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="527" y="119" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600379464823" />
+    <state x="731" y="314" key="com.intellij.ide.util.TipDialog" timestamp="1606718032326">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="314" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606718032326" />
+    <state x="903" y="224" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600378758444">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="903" y="224" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1600378758444" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Test_Cases/cursWikipediaTestClass1.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

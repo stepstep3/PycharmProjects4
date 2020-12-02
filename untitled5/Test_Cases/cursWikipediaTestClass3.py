@@ -2,7 +2,7 @@ import unittest
 from selenium import webdriver
 from untitled5.Pages.MainPage import MainPage
 from untitled5.Pages.EnglishPage import EnglishPage
-import Cursutilities as U
+import untitled5.Cursutilities as U
 
 class WikipediaTestClass1(unittest.TestCase):
   exec_path=r"C:\Users\NASA7\Downloads\chromedriver_win32 (4)\chromedriver.exe"
